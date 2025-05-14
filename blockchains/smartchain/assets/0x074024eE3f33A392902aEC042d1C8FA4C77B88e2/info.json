@@ -1,0 +1,10 @@
+{
+  "name": "AFRIPlusToken",
+  "symbol": "AFRIP",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "AFRIP es un token familiar creado con propósito, amor y unión. Representa a cinco nietos, reflejando esperanza, crecimiento y conexión.",
+  "explorer": "https://bscscan.com/token/0x074024eE3f33A392902aEC042d1C8FA4C77B88e2",
+  "status": "active",
+  "id": "afrip-token"
+}
